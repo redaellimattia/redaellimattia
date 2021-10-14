@@ -1,7 +1,7 @@
 ![Header](header.png "Header")
 # <img src="wave.gif" width="30px"> Hi, I’m @redaellimattia
-My name is Mattia Redaelli and I am an MSc student in Computer Science & Engineering with a focus on Cybersecurity.
-I'm from Italy and currently, I'm studying at the Polytechnic University of Milan.
+My name is Mattia Redaelli and I am an MSc student in Computer Science & Engineering with a focus on Cybersecurity.  
+I'm from Italy and currently, I'm studying at the Polytechnic University of Milan.  
 Here's something about me
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
