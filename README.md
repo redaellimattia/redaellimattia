@@ -2,7 +2,7 @@
 # <img src="wave.gif" width="30px"> Hi, I’m @redaellimattia
 My name is Mattia Redaelli and I am an MSc student in Computer Science & Engineering with a focus on Cybersecurity.  
 I'm from Italy and currently, I'm studying at the Polytechnic University of Milan.  
-Here's something about me
+Here's something about me:
 ## :seedling: Currently Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
