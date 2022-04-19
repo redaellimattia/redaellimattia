@@ -4,11 +4,8 @@ My name is Mattia Redaelli and I am an MSc student in Computer Science & Enginee
 I'm from Italy and currently, I'm studying at the Polytechnic University of Milan.  
 Here's something about me:
 ## :seedling: Currently Learning
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPY-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-61DAFB?logo=C&logoColor=white&style=flat)
