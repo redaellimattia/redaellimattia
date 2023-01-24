@@ -1,6 +1,6 @@
 ![Header](header.png "Header")
 # 👋🏼 Hi, I’m @redaellimattia
-My name is Mattia Redaelli and I am an MSc student in Computer Science & Engineering with a focus on AI and Cybersecurity.  
+My name is Mattia Redaelli and I am an MSc student in Computer Science & Engineering with a focus on Big Data, AI and Cybersecurity.  
 I'm from Italy and currently, I'm studying at the Polytechnic University of Milan.  
 Here's something about me:
 ## 💼 Work Experience
