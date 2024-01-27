@@ -1,14 +1,16 @@
 ![Header](header.png "Header")
 # 👋🏼 Hi, I’m @redaellimattia
-My name is Mattia Redaelli and I am an MSc student in Computer Science & Engineering with a focus on Big Data, AI and Cybersecurity.  
-I'm from Italy and currently, I'm studying at the Polytechnic University of Milan.  
+My name is Mattia Redaelli and I am a Computer Science & Engineering graduate from Polimi, specializing in Big Data and AI technologies. As a Junior Data Engineer at Quantyca, I daily apply my expertise to tackle real-world challenges in the dynamic field of data engineering. Passionate about leveraging technology for innovative solutions, I am dedicated to staying at the forefront of industry trends. Outside of work, I thrive on staying active through outdoor sports. I am excited about the opportunities to further develop and challenge myself both professionally and personally.
 Here's something about me:
 ## 💼 Work Experience
 #### `Frontend Engineer` [@Fundvis](https://fundvis.org)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-- As a **frontend engineer** at Fundvis, I am responsible for designing and maintaining a scalable and robust front-end architecture, testing and optimizing user experience, collaborating with cross-functional teams to understand and meet clients’ needs, and ensuring seamless integration with the backend.
+- Creating a robust and scalable architecture for the front-end application, by developing and maintaining a reusable component library.
+- Working closely with the rest of the development team to ensure seamless integration between the front-end and back-end of the application.
+- Performing regular testing, optimization, and debugging to ensure a smooth user experience.
+- Cooperating with other team members, stakeholders, and clients to understand their needs and requirements, and ensure that the application meets their needs.
 
 ## 🧪 Projects
 #### [`Recommender Systems Competition`](https://github.com/redaellimattia/RecSys-Competition-2022-Polimi)  
