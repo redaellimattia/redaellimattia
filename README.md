@@ -1,3 +1,4 @@
+![header](https://github.com/user-attachments/assets/f7713534-f930-45d0-9034-1e82cced5c87)
 # 👋🏼 Hi, I’m @redaellimattia
 My name is Mattia Redaelli and I am a Computer Science & Engineering graduate from Polimi, specializing in Big Data and AI technologies. As a Data Engineer at Quantyca, I daily apply my expertise to tackle real-world challenges in the dynamic field of data engineering. Passionate about leveraging technology for innovative solutions, I am dedicated to staying at the forefront of industry trends. Outside of work, I thrive on staying active through outdoor sports. I am excited about the opportunities to further develop and challenge myself both professionally and personally.
 Here's something about me:
