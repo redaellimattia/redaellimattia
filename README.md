@@ -1,16 +1,26 @@
 ![Header](header.png "Header")
 # 👋🏼 Hi, I’m @redaellimattia
-My name is Mattia Redaelli and I am a Computer Science & Engineering graduate from Polimi, specializing in Big Data and AI technologies. As a Junior Data Engineer at Quantyca, I daily apply my expertise to tackle real-world challenges in the dynamic field of data engineering. Passionate about leveraging technology for innovative solutions, I am dedicated to staying at the forefront of industry trends. Outside of work, I thrive on staying active through outdoor sports. I am excited about the opportunities to further develop and challenge myself both professionally and personally.
+My name is Mattia Redaelli and I am a Computer Science & Engineering graduate from Polimi, specializing in Big Data and AI technologies. As a Data Engineer at Quantyca, I daily apply my expertise to tackle real-world challenges in the dynamic field of data engineering. Passionate about leveraging technology for innovative solutions, I am dedicated to staying at the forefront of industry trends. Outside of work, I thrive on staying active through outdoor sports. I am excited about the opportunities to further develop and challenge myself both professionally and personally.
 Here's something about me:
 ## 💼 Work Experience
+#### `Data Engineer` [@Quantyca](https://www.quantyca.it/)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
+![Snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+- Development of a comprehensive Data Platform on Snowflake, integrating Data Mesh principles to enhance data accessibility and governance.
+- Leveraged Apache Kafka for real-time data streaming, employed Terraform for infrastructure management, and utilized cloud services such as Azure and GCP for scalable, secure solutions; developed microservices with Spring Boot for data processing needs.
+- Contributed to collaboration and project management efforts by working with cross-functional teams, and applying advanced technologies to help achieve organizational goals.
 #### `Frontend Engineer` [@Fundvis](https://fundvis.org)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-- Creating a robust and scalable architecture for the front-end application, by developing and maintaining a reusable component library.
-- Working closely with the rest of the development team to ensure seamless integration between the front-end and back-end of the application.
-- Performing regular testing, optimization, and debugging to ensure a smooth user experience.
-- Cooperating with other team members, stakeholders, and clients to understand their needs and requirements, and ensure that the application meets their needs.
+- Led the design and maintenance of a scalable and robust front-end architecture for Fundvis, ensuring seamless user experiences and integration with backend systems.
+- Utilized modern front-end technologies including Angular, TypeScript, and Tailwind to build and optimize user interfaces.
+- Developed strong collaboration skills by working closely with cross-functional teams within an Agile methodology, translating client needs into actionable features, and driving project success through effective communication and teamwork.
 
 ## 🧪 Projects
 #### [`Recommender Systems Competition`](https://github.com/redaellimattia/RecSys-Competition-2022-Polimi)  
