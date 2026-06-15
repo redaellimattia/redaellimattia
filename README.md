@@ -1,8 +1,10 @@
 ![header](https://github.com/user-attachments/assets/f7713534-f930-45d0-9034-1e82cced5c87)
 # 👋🏼 Hi, I’m @redaellimattia
-My name is Mattia Redaelli and I am a Computer Science & Engineering graduate from Polimi, specializing in Big Data and AI technologies. As a Data Engineer at Quantyca, I daily apply my expertise to tackle real-world challenges in the dynamic field of data engineering. Passionate about leveraging technology for innovative solutions, I am dedicated to staying at the forefront of industry trends. Outside of work, I thrive on staying active through outdoor sports. I am excited about the opportunities to further develop and challenge myself both professionally and personally.
+My name is Mattia Redaelli and I am Senior AI Engineer @Miro. I specialize in building scalable AI systems and architecting intelligent platforms, with strong experience in multi-agent coordination (MCP, A2A), LLM orchestration, Retrieval-Augmented Generation, and advanced RAG platform design. I have also worked on MCP and A2A Registries to enable standardized and efficient agent interactions across teams.
 Here's something about me:
 ## 💼 Work Experience
+#### `Senior AI Engineer` [@Miro](https://miro.com/index/)
+#### `AI Engineer` [@Quantyca](https://www.quantyca.it/)
 #### `Data Engineer` [@Quantyca](https://www.quantyca.it/)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
